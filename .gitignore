@@ -32,9 +32,3 @@ node_modules
 _site
 /_site/
 /_site/**
-
-# Ignore Gemfile lock (rebuild it with bundle install when installing to a new local dev environment)
-Gemfile.lock
-
-# Ignore package-lock.json (rebuild it with npm i when installing to a new local dev environment)
-package-lock.json
