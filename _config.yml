@@ -1,0 +1,18 @@
+# _config.yml is for configuring Jekyll as the SSG.  See https://jekyllrb.com/docs/configuration/ and https://jekyllrb.com/docs/configuration/default/
+
+# Jekyll automatically ignores trying to build HTML out of folders starting w/ an underscore, unless you opt them back in over here.
+
+title: 'Tiny Jekyll Site with Tailwind CSS'
+author: 'Katie Kodes'
+publisher: 'Katie Kodes'
+description: 'A teeny-tiny Jekyll site, plus Tailwind CSS compilation'
+permalink: /:title/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - netlify.toml
+  - package.json
+  - package-lock.json
+  - vendor
+  - node_modules
