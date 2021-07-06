@@ -2,6 +2,8 @@
 
 "Tiny Jekyll site," plus Tailwind CSS compilation.
 
+[See a live site built from this codebase.](https://jekylltailwind.netlify.app/)
+
 This is where I ended up after following [Steven Westmoreland's](https://stevenwestmoreland.com/2021/01/using-tailwind-css-with-jekyll.html) and [Marcin Doliwa's](https://mdoliwa.com/articles/how-to-setup-jekyll-with-tailwind-css) directions to add Tailwind to [this tiny Jekyll site](https://github.com/kkgthb/web-site-jekyll-01-tiny).
 
 [Sadly](https://github.com/mhanberg/jekyll-postcss/issues/22), JIT mode [doesn't](https://github.com/tailwindlabs/tailwindcss-jit/issues/41) seem to work.
