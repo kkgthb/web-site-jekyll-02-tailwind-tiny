@@ -3,6 +3,8 @@ module.exports = {
   purge: [
     "./_includes/**/*.html",
     "./_layouts/**/*.html",
+    "./_pages/*.html",
+    "./_pages/*.md",
     "./_posts/*.md",
     "./*.html",
   ],
