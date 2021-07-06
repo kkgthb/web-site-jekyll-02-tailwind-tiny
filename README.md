@@ -2,7 +2,7 @@
 
 "Tiny Jekyll site," plus Tailwind CSS compilation.
 
-[See a live site built from this codebase.](https://jekylltailwind.netlify.app/)
+See a [live site built from this codebase](https://jekylltailwind.netlify.app/) and the [blog post explaining it](https://katiekodes.com/jekyll-tailwind/).
 
 This is where I ended up after following [Steven Westmoreland's](https://stevenwestmoreland.com/2021/01/using-tailwind-css-with-jekyll.html) and [Marcin Doliwa's](https://mdoliwa.com/articles/how-to-setup-jekyll-with-tailwind-css) directions to add Tailwind to [this tiny Jekyll site](https://github.com/kkgthb/web-site-jekyll-01-tiny).
 
